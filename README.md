@@ -1,6 +1,14 @@
 # Ganglion-Prototype-Data
 Repository for Test data from the Prototype OpenBCI Ganglion Board
 
+### Ganglion 4 Channels EEG Data
+
+Measured EEG from subject. 1 minute eyes Closed, 1 minute eyes Open. Uses jaw grit EMG artifiact for start/stop signal.
+
+    Channel 1 - Fp1
+    Channel 2 - Fp2
+    Channel 3 - O1
+    Channel 4 - O2
 
 ### Ganglion Noise Test Data
 
