@@ -1,5 +1,6 @@
 # Ganglion-Prototype-Data
 Repository for Test data from the Prototype OpenBCI Ganglion Board
+###***All data recorded at 256Hz***
 
 ### Ganglion 4 Channels EEG Data
 
